@@ -1,0 +1,11 @@
+.PostInList {
+  position: relative;
+  border-bottom: 1px solid grey;
+}
+
+.PostInList i {
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+}

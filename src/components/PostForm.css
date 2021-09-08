@@ -1,0 +1,21 @@
+.PostForm {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.PostForm i {
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+}
+
+#addPost {
+  border-radius: 5px;
+  margin: 10px;
+}
+
+form {
+  background: #79c5e8;
+}

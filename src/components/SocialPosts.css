@@ -1,0 +1,13 @@
+h1 {
+  font-family: "Homemade Apple", cursive;
+  color: #03a9f4;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#newThought {
+  margin-bottom: 10px;
+  border-radius: 5px;
+  width: 520px;
+}
